@@ -1,0 +1,26 @@
+{
+  "name": "可编辑表格",
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/icons": "4.6.4",
+    "@ant-design/pro-card": "1.14.22",
+    "@ant-design/pro-form": "1.42.0",
+    "@ant-design/pro-table": "2.55.0",
+    "@ant-design/pro-utils": "1.24.7",
+    "antd": "4.x",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0",
+    "react-sortable-hoc": "2.0.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
